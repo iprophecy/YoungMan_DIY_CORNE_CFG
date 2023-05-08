@@ -16,6 +16,4 @@ include:
   - board: nrfmicro_13
     shield: corne_left
   - board: nrfmicro_13
-    shield: corne_right
-  - board: nrfmicro_13
-    shield: settings_reset    
+    shield: corne_right 
